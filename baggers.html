@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Brown Bag Lunch France</title>
+    <title>Brown Bag Lunch UK</title>
 
 	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.0/mustache.min.js"></script>
 
@@ -16,17 +16,17 @@
 
 	<nav class="top-bar" style="">
 		<ul>
-			<li class="name"><h1><a href="http://www.brownbaglunch.fr">Brown Bag Lunch France</a></h1></li>
+			<li class="name"><h1><a href="http://www.brownbaglunch.org.uk">Brown Bag Lunch UK</a></h1></li>
 			<li class="toggle-topbar"><a href="#"></a></li>
 			<li class="divider"></li>
-			<li class="name"><h1><a href="http://www.brownbaglunch.fr"><i class="icon-lightbulb"></i> <em>Comment ça fonctionne?</em></a></h1></li>
+			<li class="name"><h1><a href="http://www.brownbaglunch.org.uk"><i class="icon-lightbulb"></i> <em>How it works?</em></a></h1></li>
 		</ul>
 
         <section>
             <ul class="right">
                 <li class="divider"></li>
                 <li class="has-dropdown">
-                    <a href="#">Baggers</a>
+                    <a href="#">Experts</a>
                     <ul class="dropdown" id="baggersNavigationBar">
                         {{#villes}}
                             <li class="has-dropdown">
@@ -45,7 +45,7 @@
 	</nav>
 
 	<div class="row">
-		<h1>Liste des villes et des baggers</h1>
+      <h1>List of citys and experts</h1>
 
 		<div class="two columns"></div>
 		<div class="eight columns">	
@@ -91,7 +91,7 @@
                                     {{#twitter}}
 									    <p><i class="icon-twitter"></i> <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a></p>
                                     {{/twitter}}
-									<p><i class="icon-envelope-alt"></i> Infos et contact : {{{contact}}}</p>
+									<p><i class="icon-envelope-alt"></i> Details et contact : {{{contact}}}</p>
 								</div>
 
 								<div class="six columns">
@@ -123,9 +123,9 @@
 
 	<footer style="width:100%;background:#3f3f3f; color:white; padding: 15px 0">
 		<div class="row">
-			<strong>
-				Vous voulez proposer vous aussi des sujets ? Rejoignez la communauté des baggers :
-				<a style="color: yellow;" href="https://github.com/nrichand/BrownBagLunch/"><i class="icon-github-alt"></i> page github</a>
+         <strong>
+            Do you want to propose topics too? Join the expert community:
+				<a style="color: yellow;" href="https://github.com/athieriot/BrownBagLunch/"><i class="icon-github-alt"></i> github page</a>
                 | <a style="color: yellow;" href="https://twitter.com/bbl_fr"><i class="icon-twitter"></i> @bbl_fr</a>
 			</strong>
 		</div>
@@ -159,7 +159,7 @@
 
         // Google Analytics
 		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-38399904-1']);
+		_gaq.push(['_setAccount', 'UA-']);
 		_gaq.push(['_trackPageview']);
 
 		(function() {
