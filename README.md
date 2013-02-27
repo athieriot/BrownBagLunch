@@ -1,21 +1,21 @@
 BrownBagLunch
 =============
 
-Vous ajouter :
+Add yourself:
 -------------
 
-Le site Brown Bag Lunch est ouvert à toute personne souhaitant partager son savoir. Nous nous limitons par contre à la France.
+The Brown Bag Lunch site is open to everyone who wants to share his knowledge. This repository is for UK only.
+For France, please [https://github.com/nrichand/BrownBagLunch](https://github.com/nrichand/BrownBagLunch)
 
-Si vous voulez vous **rajouter** rien de plus simple! Modifiez la page [js/baggers.js](https://github.com/nrichand/BrownBagLunch/blob/gh-pages/js/baggers.js) soit en forkant le projet et en soumettant un pull request, soit directement depuis github via le bouton "edit". En cas de problème ou si vous avez besoin d'aide n'hésitez pas à ouvrir une issue sur Github ou à nous envoyer un mail à <nrichand@brownbaglunch.fr>
+If you want to **add** yourself, modify the page [js/baggers.js](https://github.com/athieriot/BrownBagLunch/blob/gh-pages/js/baggers.js) either by forking the project and submitting a Pull Request, either directly on Github via the "edit" button. If you need help, feel free to open an issue on Github or sending an email to <a.thieriot@brownbaglunch.org.uk>
 
-Ajouter une ville :
--------------
-Si votre ville n'existe pas encore vous pouvez faire vous même le logo en vous basant sur les logos existants (répertoire psd/) ou bien demandez que l'on vous le fasse en nous envoyant un mail à <nrichand@brownbaglunch.fr>
+Add a city:
+-----------
+If you city don't exists yet. You can fix a logo using the existing ones (psd/ directory)
+For the coordinates of your town, you can use this site: <http://www.latlong.net/>
 
-Pour trouver les coordonnées de votre ville, vous pouvez utiliser ce site : <http://www.latlong.net/>
+Links:
+------
 
-Liens :
--------------
-
-* **Homepage du BrownBagLunch FR** : <http://www.brownbaglunch.fr/>
-* **La liste des baggers** : <http://www.brownbaglunch.fr/baggers>
+* **Homepage of BrownBagLunch UK** : <http://www.brownbaglunch.org.uk/>
+* **List of experts** : <http://www.brownbaglunch.org.uk/baggers.html>
