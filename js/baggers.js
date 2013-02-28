@@ -20,7 +20,7 @@ var data = {
                     sessions: [
                         {
                             title: "Overview of CasperJS",
-                            summary: "CasperJS is a Browser testing utility for Javascript. You will discover how to use it and the difference with other similar tools. (advices included)"
+                            summary: "CasperJS is a Browser testing utility for Javascript. Discover how to use it and what makes it different from other similar tools. (advice included)"
                         }
                     ]
                 }
