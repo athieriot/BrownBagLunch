@@ -2,8 +2,8 @@ var map;
 $(document).ready(function () {
     map = new GMaps({
         div: '#map',
-        lat: 47.081012,
-        lng: 2.352222,
+        lat: 55.378051,
+        lng: -3.435973,
         zoom: 5,
         disableDefaultUI: true
     });
