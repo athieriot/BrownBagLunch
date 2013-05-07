@@ -28,7 +28,7 @@ var data = {
         },
         {
             name: "London",
-            ville_img: "img/BBL.jpg",
+            ville_img: "img/BBL_London.jpg",
             lat: 51.511214,
             lng: -0.119824,
 
