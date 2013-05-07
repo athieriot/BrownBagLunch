@@ -25,7 +25,7 @@ var data = {
                     ]
                 },
                 {
-                    name: "Tugdual Grall aka 'Tug',
+                    name: "Tugdual Grall aka 'Tug'",
                     bio: "Technical Evangelist at Couchbase",
                     picture: "https://secure.gravatar.com/avatar/aab9ac774f61c5d9bf143b5a1bfe901b?s=150",
                     websites: [
