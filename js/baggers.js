@@ -23,7 +23,16 @@ var data = {
                             summary: "CasperJS is a Browser testing utility for Javascript. Discover how to use it and what makes it different from other similar tools. (advice included)"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            name: "London",
+            ville_img: "img/BBL.jpg",
+            lat: 51.511214,
+            lng: -0.119824,
+
+            baggers: [
                 {
                     name: "Tugdual Grall aka 'Tug'",
                     bio: "Technical Evangelist at Couchbase",
@@ -33,7 +42,7 @@ var data = {
                     ],
                     twitter: "tgrall",
                     contact: "<a href='mailto:tugdual@gmail.com'>tugdual@gmail.com</a>",
-                    location: "Nantes,France",
+                    location: "London",
                     sessions: [
                         {
                             title: "Introduction to NoSQL with Couchbase",
