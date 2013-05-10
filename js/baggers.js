@@ -54,6 +54,27 @@ var data = {
                         }
                     ]
                 }
+                {
+                    name: "Robin Johnson",
+                    bio: "Technical Evangelist at Couchbase",
+                    picture: "http://www.gravatar.com/avatar/abf0c2394fdccde9b5c2f78bf42cbe93.png",
+                    websites: [
+                        {title: "Blog", href: "http://rbin.co/b/"}
+                    ],
+                    twitter: "rbin",
+                    contact: "<a href='mailto:robin@couchbase.com'>Robin [at] Couchbase . com</a>",
+                    location: "London",
+                    sessions: [
+                        {
+                            title: "Introduction to NoSQL with Couchbase",
+                            summary: "This presentation is made of 2 sections: quick introduction to NoSQL, then deep dive into Couchbase Server, the Open Source Document Database: architecture, programming APIs, query using Views/MapReduce.<br/>You can ask as many questions as you want!"
+                        },
+                        {
+                            title: "Big Data and NoSQL... Hadoop and Couchbase",
+                            summary: "See how and why you should integrate Hadoop and Couchbase together and what are the benefits of such integration. I will use some concrete use case to explain this."
+                        }
+                    ]
+                }
             ]
         }
     ]
