@@ -53,7 +53,7 @@ var data = {
                             summary: "See how and why you should integrate Hadoop and Couchbase together and what are the benefits of such integration. I will use some concrete use case to explain this."
                         }
                     ]
-                }
+                },
                 {
                     name: "Robin Johnson",
                     bio: "Technical Evangelist at Couchbase",
